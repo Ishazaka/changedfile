@@ -108,7 +108,7 @@ for (var checkbox of checkboxes) {
         let boxcard = document.getElementsByClassName("box-card");
         if (this.checked) {
 
-            console.log(this.value)
+//             console.log(this.value)
             var realval = this.getAttribute("value")
             // let boxcard = document.getElementsByClassName("box-card");
             Array.from(boxcard).forEach(function (element) {
