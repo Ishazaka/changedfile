@@ -18,3 +18,19 @@
     justify-content: center;
     align-items: center;
 }
+
+
+input {
+    cursor: pointer;
+}
+
+.contact_cards {
+    /* border: 1px solid black; */
+    display: grid;
+    padding: 30px;
+    grid-template-columns: auto auto auto;
+}
+
+.Pediatric {
+    background-color: rgb(224, 139, 224);
+}
