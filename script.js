@@ -39,20 +39,6 @@ Array.from(boxcard).forEach(function (element) {
 
 
 
-// $(".adult1eligible").removeClass("d-none");
-
-
-//  wrong code
-// function somecheck() {
-//     let inputs = document.querySelectorAll('.checkbox');
-//     // let checky = Array.from(checkboxes)
-//     var ischecked = true;
-//     for (let i = 0; i < inputs.length; i++) {
-//         inputs[i].checked = false;
-//     }
-// }
-
-
 var checkadult = document.getElementById("adult");
 
 
