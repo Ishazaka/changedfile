@@ -20,22 +20,46 @@ next.addEventListener("click", function () {
     }
 })
 
-let boxcard = document.getElementsByClassName("box-card");
-Array.from(boxcard).forEach(function (element) {
 
-    element.addEventListener("click", function () {
-        if (element.classList.contains("Pediatric") && ispediatric) {
-            // document.getElementsByTagName("p")[0].classList.remove("d-none")
-            // document.getElementsByTagName("a")[0].classList.remove("d-none")
-            console.log(" yeah pediatirc")
-        } else if (element.classList.contains("Adult") && isadult) {
-            console.log("adult data availabe")
-            // document.getElementsByTagName("p")[0].classList.remove("d-none")
-            // document.getElementsByTagName("a")[0].classList.remove("d-none")
-        }
-    })
 
-})
+
+// let boxcard = document.getElementsByClassName("box-card");
+// Array.from(boxcard).forEach(function (element) {
+
+//     element.addEventListener("click", function () {
+//         if (element.classList.contains("Pediatric") && ispediatric) {
+//             // document.getElementsByTagName("p")[0].classList.remove("d-none")
+//             // document.getElementsByTagName("a")[0].classList.remove("d-none")
+//             console.log(" yeah pediatirc")
+//         } else if (element.classList.contains("Adult") && isadult) {
+//             console.log("adult data availabe")
+//             // document.getElementsByTagName("p")[0].classList.remove("d-none")
+//             // document.getElementsByTagName("a")[0].classList.remove("d-none")
+//         }
+//     })
+
+// })
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// code starts here for that functionality
+
+
+
+
+
 
 
 
